@@ -1,0 +1,40 @@
+	*{
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+
+body{
+	background:lightblue;
+}
+
+
+h1{
+	background-color: #081b31;
+}
+
+.choice{
+	border-radius: 5%;
+	}
+
+.choice:hover{
+	cursor: pointer;
+	background-color:white;
+	border-radius: 35%;
+}
+
+img{
+	border-radius: 30%;
+}
+
+#user-score,
+#comp-score{
+	font-size: 3.3rem;
+}
+
+#msg{
+	background-color: #081b31;
+	border-radius: 1rem;
+}
+
+
